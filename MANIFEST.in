@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_babystepping/templates *
+recursive-include octoprint_babystepping/translations *
+recursive-include octoprint_babystepping/static *
